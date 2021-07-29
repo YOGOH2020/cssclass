@@ -1,0 +1,15 @@
+.maintittle{
+    font-family: "DejaVu Sans", sans-serif;
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+hr{
+    border: 4px dashed darkgreen;
+}
+p{
+    font-family: "Bitstream Vera Sans";
+    font-size: 18px;
+    color: black;
+    text-align: justify;
+}
